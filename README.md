@@ -1,2 +1,2 @@
 # Snake
- simple game "Snake" on C++
+"Snake@ game on C++
